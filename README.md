@@ -54,7 +54,7 @@ wrong.mp3
 
 Clone o Repositório:
 
-git clone https://github.com/belluccaz/simon-game.git
+git clone https://github.com/thematrixbunny/simon-game.git
 
 Abra o Arquivo index.html:
 
